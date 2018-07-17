@@ -8,7 +8,11 @@
 
 ## Development
 
-    $ ruby raze.rb
+    $ bundle exec ruby raze.rb
+
+## Tests
+
+    $ bundle exec rake test
 
 And then visit [localhost:4567](http://localhost:4567/).
 

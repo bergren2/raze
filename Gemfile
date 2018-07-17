@@ -2,7 +2,9 @@
 
 source "https://rubygems.org"
 
-gem "rack-test"
-gem "rake"
 gem "sinatra"
 gem "thin"
+
+gem "rack-test"
+gem "test-unit"
+gem "rake"
