@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/bergren2/raze.svg?branch=master)](https://travis-ci.com/bergren2/raze)
+
 # Raze
 
 ## Setup
